@@ -1,6 +1,6 @@
 # Project: Disaster and Emergency Aid Management 
 ## Current project state
- - There will be a Q&A session for the project today(Apr 6th) at 12:35. Click [HERE](#current-project-state) to join
+ - There will be a Q&A session for the project today(Apr 6th) at 12:35. Click [HERE](https://connect.rna2.blindsidenetworks.com/invite/to?c=fLSH4cC_UqXqrx1QJdJOX9IA6DqfJ-D_jzD0c7DBCMw&m=4b951e9ca5738b624e1363b751efba9cf4dd52a0&t=1649262411554&u=senecacollege) to join
  
 ## Use case
 
