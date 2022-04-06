@@ -1,7 +1,6 @@
 # Project: Disaster and Emergency Aid Management 
 ## Current project state
- - All milestones and reflection instructions released (V0.9)
- - Overview session moved to 11:45 on Monday Apr 4th
+ - There will be a Q&A session for the project today(Apr 6th) at 12:35. Click [HERE](#current-project-state) to join
  
 ## Use case
 
