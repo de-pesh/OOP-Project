@@ -1,1 +1,1 @@
-# Project: To be release during the study break
+# Project: to be released during the study break
