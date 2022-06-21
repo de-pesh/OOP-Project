@@ -41,8 +41,8 @@ This project will be done in 5 milestones and each milestone will have its due d
 
 > The first 4 milestones will not be marked based on the code, but their success and their timely submissions. You may modify or debug your previous code as you are going through the milestones. The only milestone that is going to scrutinized based your code will be milestone 5. If you require any feedback on your first four milestones you need to ask your professor to do so.
 
-***NOTE:***<br/>
-**Your project will receive a mark of zero if any of the milestones are not submitted by the rejection date (December 12th, 23:59 )<br />For your project to be marked, you must submit all the 4 milestones and at least one of the 6 submissions of Milestone 5**
+
+> :warning: Your project will receive a mark of zero if any of the first 4 milestones are not submitted by the rejection date (August 12th, 23:59 )<br />For your project to be marked, you must submit all the 4 milestones and at least one of the 6 submissions of Milestone 5 (Rejection date for milestone 5 is August 14th, 23:59)
 
 You can check the due date of each milestone using the ```-due``` flag in the submission command:
 ```bash
